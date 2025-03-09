@@ -6,9 +6,9 @@ include('main/anti-ddos/anti-ddos.php');
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">	
-<title>ChanHungDev - Trang Thanh Toán</title>
+<title>Phạm Tiến Dũng - Trang Thanh Toán</title>
 <link rel="icon" type="image/png" href="https://i.imgur.com/JpnVLpS.png" />
-<meta property="og:title" content="ChanHungDev - Trang Thanh Toán" />
+<meta property="og:title" content="Phạm Tiến Dũng - Trang Thanh Toán" />
 <meta name="description" content="Designer And Developer By ChanHungDev!" />
 <meta name="keywords" content="tiện ích, chanhungcoder, chanhungdev, dchanhung, code profile">
 <meta name="copyright" content="ChanHungDev" />
@@ -57,7 +57,7 @@ include('main/anti-ddos/anti-ddos.php');
 <div class='link-item'>
 <div class='bio-story-thumb' style='background-image: url(&#39;https://i.imgur.com/JqbbrSo.png&#39;);'></div>
 <div class='link-content'>
-<p>MBBank</p>
+<p>Techcombank</p></p>
 <div id='skills-qr'>
 <div class='skill-item' style='color:#008080' id="showQrSpanBtn1"><center><i class="fa-light fa-qrcode fa-sm"></i> QR-Code</center></div>
 </div>
@@ -84,7 +84,7 @@ include('main/anti-ddos/anti-ddos.php');
 <div class='link-item'>
 <div class='bio-story-thumb' style='background-image: url(&#39;https://i.imgur.com/JqbbrSo.png&#39;);'></div>
 <div class='link-content'>
-<p>MBBank</p>
+<p>TP Bank</p>
 <div id='skills-qr'>
 <div class='skill-item' style='color:#008080' id="showQrSpanBtn2"><center><i class="fa-light fa-qrcode fa-sm"></i> QR-Code</center></div>
 </div>
